@@ -1,2 +1,3 @@
 test git reset -head commit
 add new branch
+test remote branch
